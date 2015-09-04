@@ -23,5 +23,3 @@ define('k_client_callback_url', "spotify-ios-sdk-beta://callback");
 (You can get the latest Spotify SDK and sample project [here](https://github.com/spotify/ios-sdk).)
 
 (Based on [Iain Mullan's php script](https://github.com/iainmullan/spotify-token-swap-php) but has been updated to include the token refresh swap and the latest changes from Spotify.)
-
-# spotify-token-swap-php
